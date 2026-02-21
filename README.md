@@ -192,9 +192,3 @@ All Nobel Prize data comes from the **official Nobel Prize API**:
 🔗 [https://api.nobelprize.org/v1/prize.json](https://api.nobelprize.org/v1/prize.json)
 
 This means the data is always up-to-date — whenever a new Nobel Prize is awarded, it will appear the next time you run the project!
-
----
-
-## 📜 License
-
-This project is open and free to use. See the `LICENSE` file for full details.
